@@ -1,5 +1,5 @@
-# Curseforge Mirror Template
+# Details! Damage Meter: Advanced Death Logs (plugin) Mirror
 
-This is a python script plus Github Action to generate a release every period of time for addons that aren't yet transitioned to Github.
+This is a mirror of Terciob's Details! Damage Meter: Advanced Death Logs (plugin) 
 
-This specific repo does nothing but acts as a template to build upon!
+- [Curseforge URL](https://www.curseforge.com/wow/addons/details-advanced-death-logs-plug)
